@@ -1,7 +1,7 @@
 ##Description of Files
 
-#ARGARCH.r
-AR-GARCH implementation
+#AR_GARCH.R
+AR-GARCH regression implementation
 
 #AAPL_NB
 Naive Bayes implementation for AAPL
